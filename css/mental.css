@@ -1,0 +1,17 @@
+/*css for iframe*/
+iframe {
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+}
+
+#vidDesc {
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+/*background*/
+#main {
+    background-image: url(../images/mentalBackground.jpeg);
+}
